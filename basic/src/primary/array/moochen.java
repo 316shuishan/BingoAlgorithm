@@ -25,7 +25,6 @@ public class moochen {
         return i +1;
     }
 
-
     public static void main(String[] args) {
         int[] testNums1 = new int[]{1,2,3,3,4};
         int testLength= removeDuplicated(testNums1);
